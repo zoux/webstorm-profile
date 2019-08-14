@@ -1,4 +1,5 @@
 <code_scheme name="codeStyleCustom" version="173">
+  <option name="RIGHT_MARGIN" value="180" />
   <HTMLCodeStyleSettings>
     <option name="HTML_ATTRIBUTE_WRAP" value="0" />
     <option name="HTML_TEXT_WRAP" value="0" />
